@@ -1,6 +1,3 @@
-# git.atbook.ru/atmall/rpc v0.0.4-0.20240221120543-ac20bf24aabb
-## explicit; go 1.20
-git.atbook.ru/atmall/rpc/pkg/services/common/error
 # github.com/Masterminds/squirrel v1.5.4
 ## explicit; go 1.14
 github.com/Masterminds/squirrel

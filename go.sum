@@ -1,7 +1,3 @@
-github.com/Freeline95/rpc v0.0.4-0.20240125102152-afbb0a538dda h1:8QYzdTZJRN+tqsKfJP3bmvIf+p0tyjTFe6Mqe5IQjxQ=
-github.com/Freeline95/rpc v0.0.4-0.20240125102152-afbb0a538dda/go.mod h1:WRimKKJYdAIOQiJJQwLz9kxRObCoSGLPDgMgHPotdxk=
-github.com/Freeline95/rpc v0.0.4-0.20240221120543-ac20bf24aabb h1:SdQwL6ykw3msFxR83iOffR8PVoV3YfqIaVrKvzT8NkE=
-github.com/Freeline95/rpc v0.0.4-0.20240221120543-ac20bf24aabb/go.mod h1:Uc6Ij7hiJLgye0v0rIAWHAzkLkNYwGbqAN99c88oxAo=
 github.com/Masterminds/squirrel v1.5.4 h1:uUcX/aBc8O7Fg9kaISIUsHXdKuqehiXAMQTYX8afzqM=
 github.com/Masterminds/squirrel v1.5.4/go.mod h1:NNaOrjSoIDfDA40n7sr2tPNZRfjzjA400rg+riTZj10=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

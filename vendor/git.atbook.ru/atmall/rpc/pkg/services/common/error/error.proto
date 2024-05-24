@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-option go_package = "../error/";
-
-message BusinessError {
-    string code = 1;
-    string message = 2;
-}

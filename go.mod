@@ -3,7 +3,6 @@ module github.com/Freeline95/go-common
 go 1.20
 
 require (
-	github.com/Freeline95/rpc v0.0.4-0.20240221120543-ac20bf24aabb
 	github.com/Masterminds/squirrel v1.5.4
 	github.com/jmoiron/sqlx v1.3.5
 	github.com/lib/pq v1.10.9
